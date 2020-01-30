@@ -1,9 +1,9 @@
 
 # TANMAY GAIKWAD
 
-![Me](images/Tanmay.jpg "Me")
+![Me](Images/Tanmay.jpg "Me")
 
-![Beemer](images/vegeta.jpg "M4")
+![Beemer](Images/vegeta.jpg "M4")
 
 ## Where are you from?
 
@@ -19,4 +19,4 @@ I love cars. So much so that even the fictional miniature models intrigue me, es
 
 ## Git-IT Tutorial Badge
 
-![Git Tutorial](images/badge.png "Result")
+![Git Tutorial](Images/badge.png "Result")
