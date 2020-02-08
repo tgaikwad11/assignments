@@ -20,3 +20,23 @@ I love cars. So much so that even the fictional miniature models intrigue me, es
 ## Git-IT Tutorial Badge
 
 ![Git Tutorial](Images/badge.png "Result")
+
+## Screenshots
+
+![Git Tutorial](Images/image1.jpeg "Version")
+
+![Git Tutorial](Images/image2.jpeg "Version")
+
+![Git Tutorial](Images/image3.jpeg "Version")
+
+![Git Tutorial](Images/image4.jpeg "Version")
+
+![Git Tutorial](Images/image5.jpeg "Version")
+
+![Git Tutorial](Images/image6.jpeg "Version")
+
+![Git Tutorial](Images/image7.jpeg "Version")
+
+![Git Tutorial](Images/image8.jpeg "Version")
+
+![Git Tutorial](Images/image9.jpeg "Version")
